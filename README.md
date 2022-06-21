@@ -14,7 +14,7 @@ We specialize in product price optimization, inventory turnover maximization, an
 
 ### First you clone or download this project from here.
 
-https://github.com/SaurabhSinghRbz/project_MeanBuy.git
+https://github.com/Aausaaf/project_MeanBuy
 
 ### And then open it in VS Code and then open page with live server.
 
